@@ -1,0 +1,2 @@
+/root/A/hello.o
+
